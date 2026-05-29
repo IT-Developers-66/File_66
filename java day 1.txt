@@ -1,0 +1,37 @@
+1.manipulation
+2.navigation
+3.redirection
+
+1.MANIPULATION
+
+1.mkdir fullstack                 cd.. or cd/
+2.touch java.txt
+3.ls
+4.cp source destination
+cp java.txt javascript.txt 
+5.mv
+6.rm
+7.rmdir
+8.rm -r
+9.echo
+touch
+echo "hello java">java.txt
+10.cat
+
+
+there are two types of paths 
+1.absoulute path 
+2.relative path
+
+DAY 2
+ AGILE AND SCRUM 
+1.agile
+2.scum  
+3.sprint
+4.sprint planing
+5.sprint backlog
+6.sprint review
+7.product backlog
+8.sprint respective
+9.scrum master
+10.daily scrum
